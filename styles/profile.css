@@ -1,0 +1,28 @@
+body{
+    background-image: url("../images/image2.jpg");
+}    
+div{
+    margin-left: 400px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 100px;
+    padding: 10px;
+}
+#button{
+    background-color: black;
+    color: white;
+    padding: 12px 1px;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top: 40px;
+    width: 10%;
+    float: right;
+    cursor: pointer;
+}
+#button a{
+    text-decoration: none;
+    color: white;
+}
+#button:hover{
+    background-color: rgb(83, 83, 146);
+}
